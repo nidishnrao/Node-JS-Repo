@@ -1,0 +1,4 @@
+For debugging we have 2 methods 
+
+1. console.log()
+2. debugger (using chrome)

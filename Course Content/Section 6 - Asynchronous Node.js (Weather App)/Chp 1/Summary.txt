@@ -1,0 +1,11 @@
+Nodes has 4 features an Asynchronous, Non-Blocking , Multi-threaded, Event Driven
+
+Even though Node js is multi-threaded javascript can do only task at a time meaning javascript is Single-threaded.
+Node can be multi threaded by having c++ implementations allowing to have multiple threads unlike javascript.
+
+Node can run multiple threads by incorporating
+
+1. Call Stack (A data structure where functions will executed like main(), event functions(), etc)
+2. Node API's (functions/events which take long to execute will be pushed to Node API this is C++ implemented meaning functions/events which javascript can't execute)
+3. Callback Queue (once timer is done in previous step / fetching is done it will queued to callback queue)
+4. Event Loop (event loop runs only when call stack is empty meaning it will execute only if main function is executed and the stack is empty)

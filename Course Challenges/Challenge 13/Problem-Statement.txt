@@ -1,0 +1,6 @@
+Challenge: Handle errors for geocoding request
+
+1. Setup an error handler for low-level errors
+2. Test by disabling network request and running the app
+3. Setup error handling for no matching results
+4. Test by altering the search term and running the app

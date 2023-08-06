@@ -1,0 +1,5 @@
+Node js docs - https://nodejs.org/dist/latest-v20.x/docs/api/
+
+NPM js - https://www.npmjs.com/
+
+Repo for complete node course - https://github.com/andrewjmead/node-course-v3-code

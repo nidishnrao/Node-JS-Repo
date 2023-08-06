@@ -1,0 +1,5 @@
+Challenges Add two new commands
+
+1. Setup comand to support "list" command (print placeholder nessage for now)
+2. Setup comand to support "read" command (print placeholder message for now)
+3. Test your work by running both commands and ensure correct output

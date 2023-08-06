@@ -1,0 +1,5 @@
+Challenge: Setup two new routes
+
+1. Setup an about route and render a page title
+2. Setup a weather route and render page title
+3. Test your work by visiting both in the browser 

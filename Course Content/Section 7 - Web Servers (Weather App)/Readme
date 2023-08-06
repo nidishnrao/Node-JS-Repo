@@ -1,0 +1,3 @@
+Run using following command while using hbs files
+
+nodemon src/app.js -e js,hbs

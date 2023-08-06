@@ -1,0 +1,2 @@
+For http we will be using "request" module from npm even though it is deprecated it works fine. But there is a alternate for "request" module which is widely used i.e "postman-request" module by npm.
+For this section we will use "request" module later we will also use "postman-request".

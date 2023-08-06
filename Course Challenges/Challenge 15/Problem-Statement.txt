@@ -1,0 +1,6 @@
+Challenge: Accept location via command Line argument
+
+1. Access the command line arguent without yargs
+2. Use the string value as the input for geocode
+3. Only geocode if a location was provided
+4. Test you work with a couple locations

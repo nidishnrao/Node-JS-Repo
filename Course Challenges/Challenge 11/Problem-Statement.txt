@@ -1,0 +1,5 @@
+Challenge: Print a small forecast to the user
+
+1. Print: "It is currently 58.55 degrees out. There is a 0% chance of rain."
+2. Test your work!
+

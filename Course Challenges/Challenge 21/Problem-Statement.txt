@@ -1,0 +1,5 @@
+Challenge: Create a partial for the footer
+
+1. Setup the template for the footer partial "Created by Sone Name"
+2. Render the partial at the botton of all three pages
+3. Test your work by visiting all three pages

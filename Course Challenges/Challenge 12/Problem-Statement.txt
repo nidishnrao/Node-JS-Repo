@@ -1,0 +1,6 @@
+Challenge: Print the lat/long for Los Angeles
+
+1. Fire off a new request to the URL explored in browser
+2. Have the request module parse it as JSON
+3. Print both the latitude and longitude to the terminal
+4. Test your work!

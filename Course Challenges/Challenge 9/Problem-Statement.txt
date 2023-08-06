@@ -1,0 +1,7 @@
+Challenge : Wire up list command
+
+1. Create and export ListNotes from notes.js
+    - "Your notes" using chalk
+    - Print note title for each note
+2. Call listNotes from connand handler
+3. Test your work!
